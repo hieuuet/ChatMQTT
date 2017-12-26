@@ -8,7 +8,9 @@ client: make cl
 
 
 
-client
+
+
+Command client
 
 get.topics.[​ option​ ]
 
